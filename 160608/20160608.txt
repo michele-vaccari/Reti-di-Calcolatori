@@ -1,0 +1,6 @@
+n° like | titolo notizia | argomento notizia | link al sito Web
+3	politica1	politica		www.politica1.com
+1	politica2	politica		www.politica2.com
+30	politica3	politica		www.politica3.com
+19	politica4	politica		www.politica4.com
+5	politica5	politica		www.politica5.com

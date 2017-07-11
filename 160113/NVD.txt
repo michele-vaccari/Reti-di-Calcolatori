@@ -1,0 +1,12 @@
+1	Git		v1.0	Libreria TLS		Linux
+2	Web		v2.0 	Server Web			Linux
+1	Mail		v8.0 	Server E-mail		Linux
+2	Git		v1.0	Libreria TLS		FreeBSD
+0	Web		v3.0 	Server Web			FreeBSD
+0	Mail		v8.0 	Server E-mail		FreeBSD
+30	Git		v1.0	Libreria TLS		Windows
+40	Web		v3.0 	Server Web			Windows
+15	Web		v3.0 	Server Web			Windows
+3	Web		v3.0 	Server Web			Windows
+20	Web		v3.0 	Server Web			Windows
+50	Mail		v8.0	Server E-mail		Windows

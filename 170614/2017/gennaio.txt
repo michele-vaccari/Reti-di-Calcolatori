@@ -1,0 +1,4 @@
+20 15 3 Cortina
+10 16 4 Cortina
+100 30 10 Cortina
+200 30 10 Tenerife

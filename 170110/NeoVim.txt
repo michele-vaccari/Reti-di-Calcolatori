@@ -1,0 +1,3 @@
+10		interfaccia grafica		desc1
+100	interfaccia grafica		desc2
+30		interfaccia grafica		desc3

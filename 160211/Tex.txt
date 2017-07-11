@@ -1,0 +1,3 @@
+20160211		Storia1		Guglielmo Letteri		Autore1		Tex	1
+20160212		Storia2		Magnus					Autore2		Tex	2
+20170511		Storia3		Magnus					Autore3		Tex	3
