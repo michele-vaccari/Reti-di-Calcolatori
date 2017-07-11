@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	/* Controllo argomenti */
 	if (argc != 3)
 	{
-		printf("Uso: find_safest_component <server> <porta>\n");
+		printf("Uso: elenca_issue_oss <server> <porta>\n");
 		exit(1);
 	}
 	
